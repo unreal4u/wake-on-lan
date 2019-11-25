@@ -1,0 +1,11 @@
+{
+    "require": {
+        "unreal4u/mqtt": "^1.1",
+        "unreal4u/rpi-common-libraries": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+	    "unreal4u\\WOLBigpapa\\": "app"
+	}
+    }
+}

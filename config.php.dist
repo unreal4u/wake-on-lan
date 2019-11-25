@@ -1,0 +1,7 @@
+<?php
+
+const MQTT_HOST = 'X';
+const MQTT_USERNAME = 'Y';
+const MQTT_PASSWORD = 'Z';
+const BROADCAST_NETWORK = 'XX';
+const MAC_ADDRESS = 'de:ad:be:ef:00:00';
